@@ -24,6 +24,9 @@ class PvController extends Controller
         return response($model);
     }
 
+
+
+
     /**
      * Store a newly created resource in storage.
      *
